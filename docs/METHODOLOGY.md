@@ -7,11 +7,11 @@
 | Default | 80% | General assumption |  
 
 ## Liquidity Screening  
-- Minimum daily volume: $1,000,000 USD  
-- Must be traded on ≥ 3 reputable exchanges  
-- Stablecoin trading pairs required  
+- $1M+ daily volume requirement  
+- Traded on ≥ 3 exchanges  
+- Must have stablecoin pairs  
 
-## Rebalancing Rules  
-- Monthly review (first Friday of month)  
-- 5% buffer zone for weight changes  
-- Emergency rebalance if >30% price move in 24h  
+## Rebalancing  
+- Monthly (first Friday)  
+- 5% buffer zone  
+- Emergency rebalance for >30% moves  
