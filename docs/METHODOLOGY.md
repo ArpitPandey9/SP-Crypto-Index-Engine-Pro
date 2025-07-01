@@ -4,3 +4,4 @@
 |---|---|---|
 | Bitcoin | 78% | Lost coins, long-term holdings |
 | Ethereum | 85% | Moderate staking |
+| Default | 80% | General assumption |
